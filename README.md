@@ -74,6 +74,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1975-maximum-matrix-sum) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3453-separate-squares-i](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3453-separate-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,4 +160,8 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1266-minimum-time-visiting-all-points) |
+## Binary Search
+|  |
+| ------- |
+| [3453-separate-squares-i](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
