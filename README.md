@@ -75,6 +75,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [1975-maximum-matrix-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1975-maximum-matrix-sum) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3453-separate-squares-i](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,4 +165,13 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3454-separate-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
