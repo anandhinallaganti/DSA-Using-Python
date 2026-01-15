@@ -62,6 +62,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -95,6 +96,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0189-rotate-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1390-four-divisors) |
