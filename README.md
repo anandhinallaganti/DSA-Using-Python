@@ -76,6 +76,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [1975-maximum-matrix-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1975-maximum-matrix-sum) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
@@ -101,6 +102,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [1266-minimum-time-visiting-all-points](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1390-four-divisors) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -165,6 +167,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Binary Search
 |  |
 | ------- |
