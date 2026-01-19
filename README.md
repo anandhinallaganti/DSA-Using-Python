@@ -71,6 +71,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1895-largest-magic-square](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1895-largest-magic-square) |
@@ -108,6 +109,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1895-largest-magic-square) |
 ## Hash Table
 |  |
@@ -124,6 +126,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0085-maximal-rectangle) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1975-maximum-matrix-sum) |
 ## Tree
@@ -174,6 +177,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 ## Binary Search
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
