@@ -79,6 +79,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | [2348-number-of-zero-filled-subarrays](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3454-separate-squares-ii) |
 ## Two Pointers
@@ -188,4 +189,8 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3454-separate-squares-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 <!---LeetCode Topics End-->
