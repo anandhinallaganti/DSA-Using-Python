@@ -61,6 +61,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0085-maximal-rectangle) |
@@ -116,6 +117,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0001-two-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Greedy
