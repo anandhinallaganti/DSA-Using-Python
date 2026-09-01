@@ -197,4 +197,8 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
