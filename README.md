@@ -63,8 +63,17 @@ This repository documents my consistent learning and practice of DSA using **Pyt
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [2706-buy-two-chocolates](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2706-buy-two-chocolates) |
+## Sorting
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
