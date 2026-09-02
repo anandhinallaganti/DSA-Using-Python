@@ -63,6 +63,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 | ------- |
 | [0001-two-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -118,6 +119,7 @@ This repository documents my consistent learning and practice of DSA using **Jav
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Greedy
@@ -159,10 +161,12 @@ This repository documents my consistent learning and practice of DSA using **Jav
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0049-group-anagrams) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Stack
