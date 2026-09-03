@@ -63,6 +63,7 @@ This repository documents my consistent learning and practice of DSA using **Pyt
 |  |
 | ------- |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0217-contains-duplicate](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [2706-buy-two-chocolates](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
@@ -75,5 +76,10 @@ This repository documents my consistent learning and practice of DSA using **Pyt
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [2706-buy-two-chocolates](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2706-buy-two-chocolates) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
