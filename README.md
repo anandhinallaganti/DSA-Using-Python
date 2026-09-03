@@ -90,4 +90,8 @@ This repository documents my consistent learning and practice of DSA using **Pyt
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0344-reverse-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
