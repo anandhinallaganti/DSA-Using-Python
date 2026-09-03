@@ -82,4 +82,12 @@ This repository documents my consistent learning and practice of DSA using **Pyt
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
