@@ -62,6 +62,7 @@ This repository documents my consistent learning and practice of DSA using **Pyt
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
@@ -77,11 +78,13 @@ This repository documents my consistent learning and practice of DSA using **Pyt
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0217-contains-duplicate) |
 | [2706-buy-two-chocolates](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
@@ -100,4 +103,16 @@ This repository documents my consistent learning and practice of DSA using **Pyt
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
