@@ -62,6 +62,7 @@ This repository documents my consistent learning and practice of DSA using **Pyt
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0217-contains-duplicate](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@ This repository documents my consistent learning and practice of DSA using **Pyt
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anandhinallaganti/DSA-With-Java/tree/master/0217-contains-duplicate) |
 ## Two Pointers
